@@ -2,4 +2,4 @@
 
 [Homepage](https://atpchecker.github.io)
 
-[Form to access code and dataset.](https://forms.office.com/r/1sKCvnKAE5)
+[Code and dataset.](https://doi.org/10.5281/zenodo.7865665)
